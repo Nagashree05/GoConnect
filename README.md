@@ -127,8 +127,8 @@ GoConnect is a comprehensive and user-friendly web application designed to simpl
 ---
 
 ## **Contributors**
-- **Riya Kumari** - Backend Developer and API integration
 - **Nagashree NS** - Backend Developer and API integration
+- **Riya Kumari** - Backend Developer and API integration
 - **Moazam Showkat** - Frontend Developer and UI/UX developer
 - **Siddharth Kannan** - Frontend Developer and UI/UX developer
  
