@@ -119,13 +119,6 @@ GoConnect is a comprehensive and user-friendly web application designed to simpl
 
 ---
 
-## **How to Test Responsiveness**
-1. Open the application in your browser.
-2. Use the developer tools (`Ctrl + Shift + I` or `Cmd + Shift + I`) to switch to mobile view.
-3. Resize the browser window to test on various screen sizes (mobile, tablet, desktop).
-
----
-
 ## **Future Enhancements**
 - Integration with live APIs for real-time cab pricing and rental availability.
 - Enhanced user profiles with saved preferences and trip history.
